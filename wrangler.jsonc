@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "mohamed-owasp-portfolio",
+  "name": "mohamed-owasp-top-10-portfolio",
   "main": "./worker/index.ts",
   "compatibility_date": "2026-07-10",
   "compatibility_flags": ["nodejs_compat"]
